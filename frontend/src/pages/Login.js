@@ -67,7 +67,7 @@ export const Login = () => {
           required
           fullWidth
           id="email"
-          label="Email Address"
+          label="E-mail Address"
           name="email"
           autoComplete="email"
           autoFocus
